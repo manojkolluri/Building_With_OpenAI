@@ -1,2 +1,2 @@
-# OpenAI API Call
+# Building With OpenAI 
 This Repo is built with the intention of experimenting with OpenAI's API and LLM calls.
